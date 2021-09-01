@@ -1,4 +1,8 @@
 ### Hi there 👋
+ I'm a Junior Front-End Developer who also likes to play with the Back-End.
+ I love desing, React and code indentation.
+ With a background in communication science, you can bet my code is semantic.
+ I'd like to use my knowledge to help people, making stunning and useful app.
 
 <!--
 **lauratondi/lauratondi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
