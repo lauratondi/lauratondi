@@ -1,6 +1,7 @@
-### Hi there 👋
-#### I'm a Junior Front-End Developer 
-👩‍💻   but I also like to play with the Back-End <br/>
+## Hi there 👋
+### I'm a Junior Front-End Developer 
+
+👩‍💻   but I also like to play with the **Back-End** <br/>
 👉   I love design, React and indented code. <br/>
 ☝️    With a background in communication science, you can bet my code is semantic. <br/>
 💪   I'd like to use my knowledge to help people, making stunning and useful app. <br/>
