@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm a Junior Front-End Developer 
+### I'm a Front-End Developer 
 
 👩‍💻   but I also like to play with the **Back-End** <br/>
 👉   I love design, React and indented code. <br/>
